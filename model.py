@@ -45,3 +45,5 @@ print(model.predict([[2, 9, 6]]))
 # this is the part of new code
 print("Test")
 # check if this has been updated in githhub
+
+print("Test2") # Second commit
